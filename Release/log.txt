@@ -1,0 +1,7 @@
+textContent
+E:\VM shared\project\BusProject\MiniDump\Release\Exception_140688_51280.dmp
+m_strMailUser = wangxulin@chinatransinfo.com
+linlin-ring@163.com
+smtp.chinatransinfo.com;wangxulin@chinatransinfo.com;qwer1234
+setMail
+sendMail
